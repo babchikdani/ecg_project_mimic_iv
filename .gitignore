@@ -1,0 +1,9 @@
+all_data/
+files/
+files_all/
+not_relevant/
+by_hand/
+images_format_*
+render_check*
+*.csv
+*.zip
